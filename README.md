@@ -8,7 +8,7 @@
 <li><h3>More than 20 available themes</h3></li>
 </ul>
 <h2>Frontend</h2>
-<ul><ol>
+<ol>
   <li><h3>React</h3></li>
   <li><h3>Zustand </h3></li>
   <li><h3>DaisyUI</h3></li>
@@ -16,7 +16,7 @@
 <li><h3>React-hot-toast</h3></li>
   <li><h3>React-router-dom</h3></li>
   <li><h3>Lucide-react for icons</h3></li>
-</ul>
+</ol>
 <h2>Backend</h2>
 <ol><li><h3>MongoDB</h3></li>
 <li><h3>Express</h3></li>
@@ -24,7 +24,7 @@
 <li><h3>Node</h3></li>
 <li><h3>JWT </h3></li>
 <li><h3>Bcrypt</h3></li>
-<li><h3>Socket io</h3></li></ul></ul>
+<li><h3>Socket io</h3></li></ol>
 
 
 <h1>Screenshots</h1>
