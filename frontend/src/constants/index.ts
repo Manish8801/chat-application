@@ -35,4 +35,4 @@ export const THEMES: string[] = [
   "valentine",
   "winter",
   "wireframe",
-];
+] as const;
